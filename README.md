@@ -1,4 +1,10 @@
-## Hi there 👋
+# ¡Hola! Soy Jash 👋 
+
+¡Bienvenidos a mi perfil de GitHub! Soy un **desarrollador** y estudiante apasionado de **Barranquilla, Colombia**, con más de **+1 año de experiencia** en el desarrollo de soluciones tecnológicas. 🚀
+
+## **Sobre mí** 🌟
+Desde que inicié mi camino en la programación, siempre he buscado la excelencia en cada paso que doy. Durante mi tiempo en el desarrollo, he tenido la oportunidad de poner en práctica mis **conocimientos teóricos** en distintos proyectos. Y como estudiante, logré el **mejor promedio de mi carrera** en más de una ocasión, demostrando mi compromiso con la excelencia y dedicación. Podemos conectar en [LinkedIn](https://www.linkedin.com/in/juan-acosta-herrera-b9838b27b) o puedes enviarme un [email](mailto:jash0104.dev@gmail.com). 📫
+
 
 <!--
 **Jash0104/Jash0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
