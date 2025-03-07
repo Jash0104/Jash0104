@@ -1,22 +1,55 @@
-# ¡Hola! Soy Jash 👋 
-
-¡Bienvenidos a mi perfil de GitHub! Soy un **desarrollador** y estudiante apasionado de **Barranquilla, Colombia**, con más de **+1 año de experiencia** en el desarrollo de soluciones tecnológicas. 🚀
-
-## **Sobre mí** 🌟
-Desde que inicié mi camino en la programación, siempre he buscado la excelencia en cada paso que doy. Durante mi tiempo en el desarrollo, he tenido la oportunidad de poner en práctica mis **conocimientos teóricos** en distintos proyectos. Y como estudiante, logré el **mejor promedio de mi carrera** en más de una ocasión, demostrando mi compromiso con la excelencia y dedicación. Podemos conectar en [LinkedIn](https://www.linkedin.com/in/juan-acosta-herrera-b9838b27b) o puedes enviarme un [email](mailto:jash0104.dev@gmail.com). 📫
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="25" />  Hey, I'm Jash</h1>
+🔭 I’m currently working on the development of AI-powered solutions to improve logistics management systems.<br>🤝 I’m looking to collaborate on innovative projects involving AI-driven solutions and web development.<br>👐 I’m looking for help with advanced backend optimization and refining database performance.<br>🌱 I’m currently learning new AI tools and frameworks to sharpen my full-stack development skills, always aiming for excellence.<br>💬 Ask me about how to balance coding with academic success.<br>⚡ Fun fact. I started as a developer unsure of my path, now I enjoy both frontend and backend.
 
 
-<!--
-**Jash0104/Jash0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jash0104&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jash0104&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-Here are some ideas to get you started:
+## 💻 Tech Stack:
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"> 
+<img width="20"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"> 
+<br>
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="30">  
+<img width="20"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="30">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30">  
+<br>
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="30"> 
+<img width="20"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30">  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="30">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="30">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30"> 
+
+</div>
+
+
+###  Reach out to me
+
+<a href="https://linkedin.com/in/juan-acosta-herrera-b9838b27b" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" style="vertical-align: middle; margin-right: 8px;">
+</a>
+<a href="mailto:jash0104.dev@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="30" style="vertical-align: middle; margin-right: 8px;">
+</a> 
+
+
+
